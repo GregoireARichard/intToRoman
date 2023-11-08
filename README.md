@@ -1,9 +1,8 @@
-# js-kata-starter
+# Integer to roman
 
-Starter project for kata (Node, TypeScript, Jest)
+Cette algorithme vise à transformer un nombre donné en chiffre romain.
 
-## Getting started
+## Lancer le projet
 
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+`npm i ` <br>
+et les test : `npx jest`
